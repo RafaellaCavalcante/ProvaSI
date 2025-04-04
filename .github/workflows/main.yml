@@ -1,4 +1,4 @@
-name: CI - Build Blazor WebAssembly
+name: CI - Testes Automatizados
 
 on:
   push:
@@ -7,17 +7,20 @@ on:
     branches: [main]
 
 jobs:
-  build:
+  build-and-test:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout do código
         uses: actions/checkout@v4
 
-      - name: Configurar .NET SDK
-        uses: actions/setup-dotnet@v3
+      - name: Configurar Node.js
+        uses: actions/setup-node@v4
         with:
-          dotnet-version: 7.0
+          node-version: 18
 
-      - name: Build do projeto Blazor WebAssembly
-        run: dotnet build --configuration Release
+      - name: Instalar dependências
+        run: dotnet restore
+
+      - name: Rodar aplicação
+        run: dotnet build

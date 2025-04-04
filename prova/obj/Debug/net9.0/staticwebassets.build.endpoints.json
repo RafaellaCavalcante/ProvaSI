@@ -56347,17 +56347,17 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"iWBnDH4Aq3g169+MffYTDmj/SYQ9l9ZjAmhUM56r28Y=\""
+          "Value": "\"KRtb8MwoanyMBsuDZecp8vgQxJFdB0LJGn/vlxshM4U=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 14:14:53 GMT"
+          "Value": "Fri, 04 Apr 2025 14:19:21 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-iWBnDH4Aq3g169+MffYTDmj/SYQ9l9ZjAmhUM56r28Y="
+          "Value": "sha256-KRtb8MwoanyMBsuDZecp8vgQxJFdB0LJGn/vlxshM4U="
         }
       ]
     },
@@ -56368,7 +56368,7 @@
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000081400081"
+          "Quality": "0.000081386832"
         }
       ],
       "ResponseHeaders": [
@@ -56386,7 +56386,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12284"
+          "Value": "12286"
         },
         {
           "Name": "Content-Type",
@@ -56394,15 +56394,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ZF+rvxrmQ0yGTArIyCcA/V/x7Si1EwK4J+pYfoJ2v8k=\""
+          "Value": "\"jROR4+nmjM4B2CpqMyccABuSUZYzhFuJs4jIsbUgcMY=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"iWBnDH4Aq3g169+MffYTDmj/SYQ9l9ZjAmhUM56r28Y=\""
+          "Value": "W/\"KRtb8MwoanyMBsuDZecp8vgQxJFdB0LJGn/vlxshM4U=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 14:14:40 GMT"
+          "Value": "Fri, 04 Apr 2025 14:14:53 GMT"
         },
         {
           "Name": "Vary",
@@ -56412,7 +56412,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-iWBnDH4Aq3g169+MffYTDmj/SYQ9l9ZjAmhUM56r28Y="
+          "Value": "sha256-KRtb8MwoanyMBsuDZecp8vgQxJFdB0LJGn/vlxshM4U="
         }
       ]
     },
@@ -56435,7 +56435,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12284"
+          "Value": "12286"
         },
         {
           "Name": "Content-Type",
@@ -56443,11 +56443,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ZF+rvxrmQ0yGTArIyCcA/V/x7Si1EwK4J+pYfoJ2v8k=\""
+          "Value": "\"jROR4+nmjM4B2CpqMyccABuSUZYzhFuJs4jIsbUgcMY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 14:14:40 GMT"
+          "Value": "Fri, 04 Apr 2025 14:14:53 GMT"
         },
         {
           "Name": "Vary",
@@ -56457,7 +56457,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ZF+rvxrmQ0yGTArIyCcA/V/x7Si1EwK4J+pYfoJ2v8k="
+          "Value": "sha256-jROR4+nmjM4B2CpqMyccABuSUZYzhFuJs4jIsbUgcMY="
         }
       ]
     },
@@ -59877,8 +59877,8 @@
       ]
     },
     {
-      "Route": "_framework/prova.3nvmbif7f8.wasm",
-      "AssetFile": "_framework/prova.3nvmbif7f8.wasm",
+      "Route": "_framework/prova.pdb",
+      "AssetFile": "_framework/prova.xsvvlv7zo1.pdb",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -59887,7 +59887,144 @@
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21348"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Pwzdkbr060LXAhm66sRZhQ5sMK3Uv9W4RvySLeOhHJM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 14:19:20 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Pwzdkbr060LXAhm66sRZhQ5sMK3Uv9W4RvySLeOhHJM="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/prova.pdb",
+      "AssetFile": "_framework/prova.xsvvlv7zo1.pdb.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000065698706"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15220"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"a2QL6klVrgrwpp8WFwZC+oGCHmv09/Zcff8Njxw082U=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Pwzdkbr060LXAhm66sRZhQ5sMK3Uv9W4RvySLeOhHJM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 14:19:21 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Pwzdkbr060LXAhm66sRZhQ5sMK3Uv9W4RvySLeOhHJM="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/prova.pdb.gz",
+      "AssetFile": "_framework/prova.xsvvlv7zo1.pdb.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15220"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"a2QL6klVrgrwpp8WFwZC+oGCHmv09/Zcff8Njxw082U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 14:19:21 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-a2QL6klVrgrwpp8WFwZC+oGCHmv09/Zcff8Njxw082U="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/prova.wasm",
+      "AssetFile": "_framework/prova.yezjv0sejh.wasm",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Length",
@@ -59899,36 +60036,28 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"UZNRzGLqVuST1/DadO64N6fg4GxDd3ILoH5VDyTfKSU=\""
+          "Value": "\"9gZzepJ1nUeXTEziF7Onyfklqtv7Psosh5CpV2wdeao=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 14:14:39 GMT"
+          "Value": "Fri, 04 Apr 2025 14:19:20 GMT"
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "3nvmbif7f8"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-UZNRzGLqVuST1/DadO64N6fg4GxDd3ILoH5VDyTfKSU="
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/prova.wasm"
+          "Value": "sha256-9gZzepJ1nUeXTEziF7Onyfklqtv7Psosh5CpV2wdeao="
         }
       ]
     },
     {
-      "Route": "_framework/prova.3nvmbif7f8.wasm",
-      "AssetFile": "_framework/prova.3nvmbif7f8.wasm.gz",
+      "Route": "_framework/prova.wasm",
+      "AssetFile": "_framework/prova.yezjv0sejh.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000146477223"
+          "Quality": "0.000146541618"
         }
       ],
       "ResponseHeaders": [
@@ -59938,7 +60067,7 @@
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -59946,7 +60075,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6826"
+          "Value": "6823"
         },
         {
           "Name": "Content-Type",
@@ -59954,15 +60083,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"XM2HhjG0e4saNbfreQ3rg0sHjbDHkH1TNhp/doQdFP0=\""
+          "Value": "\"FI1lRm/ATAP4F3GXILNIwCMtp58UfFH66uN5VBPOzpA=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"UZNRzGLqVuST1/DadO64N6fg4GxDd3ILoH5VDyTfKSU=\""
+          "Value": "W/\"9gZzepJ1nUeXTEziF7Onyfklqtv7Psosh5CpV2wdeao=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 14:14:41 GMT"
+          "Value": "Fri, 04 Apr 2025 14:19:21 GMT"
         },
         {
           "Name": "Vary",
@@ -59971,22 +60100,14 @@
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "3nvmbif7f8"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-UZNRzGLqVuST1/DadO64N6fg4GxDd3ILoH5VDyTfKSU="
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/prova.wasm"
+          "Value": "sha256-9gZzepJ1nUeXTEziF7Onyfklqtv7Psosh5CpV2wdeao="
         }
       ]
     },
     {
-      "Route": "_framework/prova.3nvmbif7f8.wasm.gz",
-      "AssetFile": "_framework/prova.3nvmbif7f8.wasm.gz",
+      "Route": "_framework/prova.wasm.gz",
+      "AssetFile": "_framework/prova.yezjv0sejh.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -59995,7 +60116,7 @@
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -60003,7 +60124,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6826"
+          "Value": "6823"
         },
         {
           "Name": "Content-Type",
@@ -60011,11 +60132,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"XM2HhjG0e4saNbfreQ3rg0sHjbDHkH1TNhp/doQdFP0=\""
+          "Value": "\"FI1lRm/ATAP4F3GXILNIwCMtp58UfFH66uN5VBPOzpA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 14:14:41 GMT"
+          "Value": "Fri, 04 Apr 2025 14:19:21 GMT"
         },
         {
           "Name": "Vary",
@@ -60024,22 +60145,14 @@
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "3nvmbif7f8"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-XM2HhjG0e4saNbfreQ3rg0sHjbDHkH1TNhp/doQdFP0="
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/prova.wasm.gz"
+          "Value": "sha256-FI1lRm/ATAP4F3GXILNIwCMtp58UfFH66uN5VBPOzpA="
         }
       ]
     },
     {
-      "Route": "_framework/prova.kab2ccv4hl.pdb",
-      "AssetFile": "_framework/prova.kab2ccv4hl.pdb",
+      "Route": "_framework/prova.xsvvlv7zo1.pdb",
+      "AssetFile": "_framework/prova.xsvvlv7zo1.pdb",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -60052,7 +60165,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "21344"
+          "Value": "21348"
         },
         {
           "Name": "Content-Type",
@@ -60060,21 +60173,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"VC46mCaBm8qV8l/RnD7S8tJScsjcYz1JB1BQYphIBk4=\""
+          "Value": "\"Pwzdkbr060LXAhm66sRZhQ5sMK3Uv9W4RvySLeOhHJM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 14:14:39 GMT"
+          "Value": "Fri, 04 Apr 2025 14:19:20 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "kab2ccv4hl"
+          "Value": "xsvvlv7zo1"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-VC46mCaBm8qV8l/RnD7S8tJScsjcYz1JB1BQYphIBk4="
+          "Value": "sha256-Pwzdkbr060LXAhm66sRZhQ5sMK3Uv9W4RvySLeOhHJM="
         },
         {
           "Name": "label",
@@ -60083,13 +60196,13 @@
       ]
     },
     {
-      "Route": "_framework/prova.kab2ccv4hl.pdb",
-      "AssetFile": "_framework/prova.kab2ccv4hl.pdb.gz",
+      "Route": "_framework/prova.xsvvlv7zo1.pdb",
+      "AssetFile": "_framework/prova.xsvvlv7zo1.pdb.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000065724614"
+          "Quality": "0.000065698706"
         }
       ],
       "ResponseHeaders": [
@@ -60107,7 +60220,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "15214"
+          "Value": "15220"
         },
         {
           "Name": "Content-Type",
@@ -60115,15 +60228,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"k23SG89GIkQ7kQ5G/1DOqzcrXXW6tyZnFzsnQmzqRQg=\""
+          "Value": "\"a2QL6klVrgrwpp8WFwZC+oGCHmv09/Zcff8Njxw082U=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"VC46mCaBm8qV8l/RnD7S8tJScsjcYz1JB1BQYphIBk4=\""
+          "Value": "W/\"Pwzdkbr060LXAhm66sRZhQ5sMK3Uv9W4RvySLeOhHJM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 14:14:41 GMT"
+          "Value": "Fri, 04 Apr 2025 14:19:21 GMT"
         },
         {
           "Name": "Vary",
@@ -60133,11 +60246,11 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "kab2ccv4hl"
+          "Value": "xsvvlv7zo1"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-VC46mCaBm8qV8l/RnD7S8tJScsjcYz1JB1BQYphIBk4="
+          "Value": "sha256-Pwzdkbr060LXAhm66sRZhQ5sMK3Uv9W4RvySLeOhHJM="
         },
         {
           "Name": "label",
@@ -60146,8 +60259,8 @@
       ]
     },
     {
-      "Route": "_framework/prova.kab2ccv4hl.pdb.gz",
-      "AssetFile": "_framework/prova.kab2ccv4hl.pdb.gz",
+      "Route": "_framework/prova.xsvvlv7zo1.pdb.gz",
+      "AssetFile": "_framework/prova.xsvvlv7zo1.pdb.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -60164,7 +60277,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "15214"
+          "Value": "15220"
         },
         {
           "Name": "Content-Type",
@@ -60172,11 +60285,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"k23SG89GIkQ7kQ5G/1DOqzcrXXW6tyZnFzsnQmzqRQg=\""
+          "Value": "\"a2QL6klVrgrwpp8WFwZC+oGCHmv09/Zcff8Njxw082U=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 14:14:41 GMT"
+          "Value": "Fri, 04 Apr 2025 14:19:21 GMT"
         },
         {
           "Name": "Vary",
@@ -60186,11 +60299,11 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "kab2ccv4hl"
+          "Value": "xsvvlv7zo1"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-k23SG89GIkQ7kQ5G/1DOqzcrXXW6tyZnFzsnQmzqRQg="
+          "Value": "sha256-a2QL6klVrgrwpp8WFwZC+oGCHmv09/Zcff8Njxw082U="
         },
         {
           "Name": "label",
@@ -60199,8 +60312,8 @@
       ]
     },
     {
-      "Route": "_framework/prova.pdb",
-      "AssetFile": "_framework/prova.kab2ccv4hl.pdb",
+      "Route": "_framework/prova.yezjv0sejh.wasm",
+      "AssetFile": "_framework/prova.yezjv0sejh.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -60209,144 +60322,7 @@
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "21344"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"VC46mCaBm8qV8l/RnD7S8tJScsjcYz1JB1BQYphIBk4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 14:14:39 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-VC46mCaBm8qV8l/RnD7S8tJScsjcYz1JB1BQYphIBk4="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/prova.pdb",
-      "AssetFile": "_framework/prova.kab2ccv4hl.pdb.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000065724614"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "15214"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"k23SG89GIkQ7kQ5G/1DOqzcrXXW6tyZnFzsnQmzqRQg=\""
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"VC46mCaBm8qV8l/RnD7S8tJScsjcYz1JB1BQYphIBk4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 14:14:41 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-VC46mCaBm8qV8l/RnD7S8tJScsjcYz1JB1BQYphIBk4="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/prova.pdb.gz",
-      "AssetFile": "_framework/prova.kab2ccv4hl.pdb.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "15214"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"k23SG89GIkQ7kQ5G/1DOqzcrXXW6tyZnFzsnQmzqRQg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 14:14:41 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-k23SG89GIkQ7kQ5G/1DOqzcrXXW6tyZnFzsnQmzqRQg="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/prova.wasm",
-      "AssetFile": "_framework/prova.3nvmbif7f8.wasm",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Length",
@@ -60358,28 +60334,36 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"UZNRzGLqVuST1/DadO64N6fg4GxDd3ILoH5VDyTfKSU=\""
+          "Value": "\"9gZzepJ1nUeXTEziF7Onyfklqtv7Psosh5CpV2wdeao=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 14:14:39 GMT"
+          "Value": "Fri, 04 Apr 2025 14:19:20 GMT"
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "yezjv0sejh"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-UZNRzGLqVuST1/DadO64N6fg4GxDd3ILoH5VDyTfKSU="
+          "Value": "sha256-9gZzepJ1nUeXTEziF7Onyfklqtv7Psosh5CpV2wdeao="
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/prova.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/prova.wasm",
-      "AssetFile": "_framework/prova.3nvmbif7f8.wasm.gz",
+      "Route": "_framework/prova.yezjv0sejh.wasm",
+      "AssetFile": "_framework/prova.yezjv0sejh.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000146477223"
+          "Quality": "0.000146541618"
         }
       ],
       "ResponseHeaders": [
@@ -60389,7 +60373,7 @@
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -60397,7 +60381,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6826"
+          "Value": "6823"
         },
         {
           "Name": "Content-Type",
@@ -60405,15 +60389,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"XM2HhjG0e4saNbfreQ3rg0sHjbDHkH1TNhp/doQdFP0=\""
+          "Value": "\"FI1lRm/ATAP4F3GXILNIwCMtp58UfFH66uN5VBPOzpA=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"UZNRzGLqVuST1/DadO64N6fg4GxDd3ILoH5VDyTfKSU=\""
+          "Value": "W/\"9gZzepJ1nUeXTEziF7Onyfklqtv7Psosh5CpV2wdeao=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 14:14:41 GMT"
+          "Value": "Fri, 04 Apr 2025 14:19:21 GMT"
         },
         {
           "Name": "Vary",
@@ -60422,14 +60406,22 @@
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "yezjv0sejh"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-UZNRzGLqVuST1/DadO64N6fg4GxDd3ILoH5VDyTfKSU="
+          "Value": "sha256-9gZzepJ1nUeXTEziF7Onyfklqtv7Psosh5CpV2wdeao="
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/prova.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/prova.wasm.gz",
-      "AssetFile": "_framework/prova.3nvmbif7f8.wasm.gz",
+      "Route": "_framework/prova.yezjv0sejh.wasm.gz",
+      "AssetFile": "_framework/prova.yezjv0sejh.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -60438,7 +60430,7 @@
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -60446,7 +60438,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6826"
+          "Value": "6823"
         },
         {
           "Name": "Content-Type",
@@ -60454,11 +60446,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"XM2HhjG0e4saNbfreQ3rg0sHjbDHkH1TNhp/doQdFP0=\""
+          "Value": "\"FI1lRm/ATAP4F3GXILNIwCMtp58UfFH66uN5VBPOzpA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 14:14:41 GMT"
+          "Value": "Fri, 04 Apr 2025 14:19:21 GMT"
         },
         {
           "Name": "Vary",
@@ -60467,8 +60459,16 @@
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "yezjv0sejh"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-XM2HhjG0e4saNbfreQ3rg0sHjbDHkH1TNhp/doQdFP0="
+          "Value": "sha256-FI1lRm/ATAP4F3GXILNIwCMtp58UfFH66uN5VBPOzpA="
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/prova.wasm.gz"
         }
       ]
     },

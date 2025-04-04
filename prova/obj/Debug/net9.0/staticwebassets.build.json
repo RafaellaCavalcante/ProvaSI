@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "/mxfx3OT5LrA7Py5g+1liZKDH/Ge5cPPFQr2MF51pO4=",
+  "Hash": "tz52TGFBAWiB3BNxCHy46l4I/vq8GFnSVsMVFwF4+ZE=",
   "Source": "prova",
   "BasePath": "/",
   "Mode": "Root",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "hqh7f7mfeu",
-      "Integrity": "iWBnDH4Aq3g169+MffYTDmj/SYQ9l9ZjAmhUM56r28Y=",
+      "Fingerprint": "nkvkczd146",
+      "Integrity": "KRtb8MwoanyMBsuDZecp8vgQxJFdB0LJGn/vlxshM4U=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\blazor.boot.json"
@@ -871,8 +871,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "kab2ccv4hl",
-      "Integrity": "VC46mCaBm8qV8l/RnD7S8tJScsjcYz1JB1BQYphIBk4=",
+      "Fingerprint": "xsvvlv7zo1",
+      "Integrity": "Pwzdkbr060LXAhm66sRZhQ5sMK3Uv9W4RvySLeOhHJM=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\prova.pdb"
@@ -892,8 +892,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "3nvmbif7f8",
-      "Integrity": "UZNRzGLqVuST1/DadO64N6fg4GxDd3ILoH5VDyTfKSU=",
+      "Fingerprint": "yezjv0sejh",
+      "Integrity": "9gZzepJ1nUeXTEziF7Onyfklqtv7Psosh5CpV2wdeao=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Inteli\\Documents\\Github\\ProvaSI\\prova\\obj\\Debug\\net9.0\\webcil\\prova.wasm"
@@ -4994,7 +4994,7 @@
       "OriginalItemSpec": "C:\\Users\\Inteli\\Documents\\Github\\ProvaSI\\prova\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Inteli\\Documents\\Github\\ProvaSI\\prova\\obj\\Debug\\net9.0\\compressed\\53pdxlwgx6-hqh7f7mfeu.gz",
+      "Identity": "C:\\Users\\Inteli\\Documents\\Github\\ProvaSI\\prova\\obj\\Debug\\net9.0\\compressed\\53pdxlwgx6-nkvkczd146.gz",
       "SourceId": "prova",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Inteli\\Documents\\Github\\ProvaSI\\prova\\obj\\Debug\\net9.0\\compressed\\",
@@ -5008,8 +5008,8 @@
       "RelatedAsset": "C:\\Users\\Inteli\\Documents\\Github\\ProvaSI\\prova\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "o5xfn13cpg",
-      "Integrity": "ZF+rvxrmQ0yGTArIyCcA/V/x7Si1EwK4J+pYfoJ2v8k=",
+      "Fingerprint": "d8647x9867",
+      "Integrity": "jROR4+nmjM4B2CpqMyccABuSUZYzhFuJs4jIsbUgcMY=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Inteli\\Documents\\Github\\ProvaSI\\prova\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json"
@@ -5750,12 +5750,12 @@
       "OriginalItemSpec": "C:\\Users\\Inteli\\Documents\\Github\\ProvaSI\\prova\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.FileExtensions.wasm"
     },
     {
-      "Identity": "C:\\Users\\Inteli\\Documents\\Github\\ProvaSI\\prova\\obj\\Debug\\net9.0\\compressed\\9lkaywu50t-3nvmbif7f8.gz",
+      "Identity": "C:\\Users\\Inteli\\Documents\\Github\\ProvaSI\\prova\\obj\\Debug\\net9.0\\compressed\\9lkaywu50t-yezjv0sejh.gz",
       "SourceId": "prova",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Inteli\\Documents\\Github\\ProvaSI\\prova\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/prova#[.{fingerprint=3nvmbif7f8}]!.wasm.gz",
+      "RelativePath": "_framework/prova#[.{fingerprint=yezjv0sejh}]!.wasm.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -5764,8 +5764,8 @@
       "RelatedAsset": "C:\\Users\\Inteli\\Documents\\Github\\ProvaSI\\prova\\bin\\Debug\\net9.0\\wwwroot\\_framework\\prova.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "ohewod1x65",
-      "Integrity": "XM2HhjG0e4saNbfreQ3rg0sHjbDHkH1TNhp/doQdFP0=",
+      "Fingerprint": "wje5ujhiz2",
+      "Integrity": "FI1lRm/ATAP4F3GXILNIwCMtp58UfFH66uN5VBPOzpA=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Inteli\\Documents\\Github\\ProvaSI\\prova\\bin\\Debug\\net9.0\\wwwroot\\_framework\\prova.wasm"
@@ -6632,12 +6632,12 @@
       "OriginalItemSpec": "C:\\Users\\Inteli\\Documents\\Github\\ProvaSI\\prova\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Runtime.Serialization.wasm"
     },
     {
-      "Identity": "C:\\Users\\Inteli\\Documents\\Github\\ProvaSI\\prova\\obj\\Debug\\net9.0\\compressed\\gprgkkwtjw-kab2ccv4hl.gz",
+      "Identity": "C:\\Users\\Inteli\\Documents\\Github\\ProvaSI\\prova\\obj\\Debug\\net9.0\\compressed\\gprgkkwtjw-xsvvlv7zo1.gz",
       "SourceId": "prova",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Inteli\\Documents\\Github\\ProvaSI\\prova\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/prova#[.{fingerprint=kab2ccv4hl}]!.pdb.gz",
+      "RelativePath": "_framework/prova#[.{fingerprint=xsvvlv7zo1}]!.pdb.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -6646,8 +6646,8 @@
       "RelatedAsset": "C:\\Users\\Inteli\\Documents\\Github\\ProvaSI\\prova\\bin\\Debug\\net9.0\\wwwroot\\_framework\\prova.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "vl02ijg28t",
-      "Integrity": "k23SG89GIkQ7kQ5G/1DOqzcrXXW6tyZnFzsnQmzqRQg=",
+      "Fingerprint": "tmiluzsl7q",
+      "Integrity": "a2QL6klVrgrwpp8WFwZC+oGCHmv09/Zcff8Njxw082U=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Inteli\\Documents\\Github\\ProvaSI\\prova\\bin\\Debug\\net9.0\\wwwroot\\_framework\\prova.pdb"
@@ -10663,7 +10663,46 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"iWBnDH4Aq3g169+MffYTDmj/SYQ9l9ZjAmhUM56r28Y=\""
+          "Value": "\"KRtb8MwoanyMBsuDZecp8vgQxJFdB0LJGn/vlxshM4U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 14:19:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KRtb8MwoanyMBsuDZecp8vgQxJFdB0LJGn/vlxshM4U="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/blazor.boot.json",
+      "AssetFile": "C:\\Users\\Inteli\\Documents\\Github\\ProvaSI\\prova\\obj\\Debug\\net9.0\\compressed\\53pdxlwgx6-nkvkczd146.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000081386832"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12286"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jROR4+nmjM4B2CpqMyccABuSUZYzhFuJs4jIsbUgcMY=\""
         },
         {
           "Name": "Last-Modified",
@@ -10672,45 +10711,6 @@
         {
           "Name": "Cache-Control",
           "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-iWBnDH4Aq3g169+MffYTDmj/SYQ9l9ZjAmhUM56r28Y="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/blazor.boot.json",
-      "AssetFile": "C:\\Users\\Inteli\\Documents\\Github\\ProvaSI\\prova\\obj\\Debug\\net9.0\\compressed\\53pdxlwgx6-hqh7f7mfeu.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000081400081"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "12284"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"ZF+rvxrmQ0yGTArIyCcA/V/x7Si1EwK4J+pYfoJ2v8k=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 14:14:40 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -10726,19 +10726,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"iWBnDH4Aq3g169+MffYTDmj/SYQ9l9ZjAmhUM56r28Y=\""
+          "Value": "W/\"KRtb8MwoanyMBsuDZecp8vgQxJFdB0LJGn/vlxshM4U=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-iWBnDH4Aq3g169+MffYTDmj/SYQ9l9ZjAmhUM56r28Y="
+          "Value": "sha256-KRtb8MwoanyMBsuDZecp8vgQxJFdB0LJGn/vlxshM4U="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "C:\\Users\\Inteli\\Documents\\Github\\ProvaSI\\prova\\obj\\Debug\\net9.0\\compressed\\53pdxlwgx6-hqh7f7mfeu.gz",
+      "AssetFile": "C:\\Users\\Inteli\\Documents\\Github\\ProvaSI\\prova\\obj\\Debug\\net9.0\\compressed\\53pdxlwgx6-nkvkczd146.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10747,7 +10747,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12284"
+          "Value": "12286"
         },
         {
           "Name": "Content-Type",
@@ -10755,11 +10755,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ZF+rvxrmQ0yGTArIyCcA/V/x7Si1EwK4J+pYfoJ2v8k=\""
+          "Value": "\"jROR4+nmjM4B2CpqMyccABuSUZYzhFuJs4jIsbUgcMY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 14:14:40 GMT"
+          "Value": "Fri, 04 Apr 2025 14:14:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10777,7 +10777,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ZF+rvxrmQ0yGTArIyCcA/V/x7Si1EwK4J+pYfoJ2v8k="
+          "Value": "sha256-jROR4+nmjM4B2CpqMyccABuSUZYzhFuJs4jIsbUgcMY="
         }
       ]
     },
@@ -22243,7 +22243,144 @@
       ]
     },
     {
-      "Route": "_framework/prova.3nvmbif7f8.wasm",
+      "Route": "_framework/prova.pdb",
+      "AssetFile": "C:\\Users\\Inteli\\Documents\\Github\\ProvaSI\\prova\\bin\\Debug\\net9.0\\wwwroot\\_framework\\prova.pdb",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21348"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Pwzdkbr060LXAhm66sRZhQ5sMK3Uv9W4RvySLeOhHJM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 14:19:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Pwzdkbr060LXAhm66sRZhQ5sMK3Uv9W4RvySLeOhHJM="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/prova.pdb",
+      "AssetFile": "C:\\Users\\Inteli\\Documents\\Github\\ProvaSI\\prova\\obj\\Debug\\net9.0\\compressed\\gprgkkwtjw-xsvvlv7zo1.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000065698706"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15220"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"a2QL6klVrgrwpp8WFwZC+oGCHmv09/Zcff8Njxw082U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 14:19:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Pwzdkbr060LXAhm66sRZhQ5sMK3Uv9W4RvySLeOhHJM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Pwzdkbr060LXAhm66sRZhQ5sMK3Uv9W4RvySLeOhHJM="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/prova.pdb.gz",
+      "AssetFile": "C:\\Users\\Inteli\\Documents\\Github\\ProvaSI\\prova\\obj\\Debug\\net9.0\\compressed\\gprgkkwtjw-xsvvlv7zo1.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15220"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"a2QL6klVrgrwpp8WFwZC+oGCHmv09/Zcff8Njxw082U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 14:19:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-a2QL6klVrgrwpp8WFwZC+oGCHmv09/Zcff8Njxw082U="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/prova.wasm",
       "AssetFile": "C:\\Users\\Inteli\\Documents\\Github\\ProvaSI\\prova\\bin\\Debug\\net9.0\\wwwroot\\_framework\\prova.wasm",
       "Selectors": [],
       "ResponseHeaders": [
@@ -22261,40 +22398,32 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"UZNRzGLqVuST1/DadO64N6fg4GxDd3ILoH5VDyTfKSU=\""
+          "Value": "\"9gZzepJ1nUeXTEziF7Onyfklqtv7Psosh5CpV2wdeao=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 14:14:39 GMT"
+          "Value": "Fri, 04 Apr 2025 14:19:20 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "3nvmbif7f8"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/prova.wasm"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-UZNRzGLqVuST1/DadO64N6fg4GxDd3ILoH5VDyTfKSU="
+          "Value": "sha256-9gZzepJ1nUeXTEziF7Onyfklqtv7Psosh5CpV2wdeao="
         }
       ]
     },
     {
-      "Route": "_framework/prova.3nvmbif7f8.wasm",
-      "AssetFile": "C:\\Users\\Inteli\\Documents\\Github\\ProvaSI\\prova\\obj\\Debug\\net9.0\\compressed\\9lkaywu50t-3nvmbif7f8.gz",
+      "Route": "_framework/prova.wasm",
+      "AssetFile": "C:\\Users\\Inteli\\Documents\\Github\\ProvaSI\\prova\\obj\\Debug\\net9.0\\compressed\\9lkaywu50t-yezjv0sejh.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000146477223"
+          "Quality": "0.000146541618"
         }
       ],
       "ResponseHeaders": [
@@ -22304,19 +22433,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6826"
+          "Value": "6823"
         },
         {
           "Name": "ETag",
-          "Value": "\"XM2HhjG0e4saNbfreQ3rg0sHjbDHkH1TNhp/doQdFP0=\""
+          "Value": "\"FI1lRm/ATAP4F3GXILNIwCMtp58UfFH66uN5VBPOzpA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 14:14:41 GMT"
+          "Value": "Fri, 04 Apr 2025 14:19:21 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -22332,27 +22461,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"UZNRzGLqVuST1/DadO64N6fg4GxDd3ILoH5VDyTfKSU=\""
+          "Value": "W/\"9gZzepJ1nUeXTEziF7Onyfklqtv7Psosh5CpV2wdeao=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "3nvmbif7f8"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/prova.wasm"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-UZNRzGLqVuST1/DadO64N6fg4GxDd3ILoH5VDyTfKSU="
+          "Value": "sha256-9gZzepJ1nUeXTEziF7Onyfklqtv7Psosh5CpV2wdeao="
         }
       ]
     },
     {
-      "Route": "_framework/prova.3nvmbif7f8.wasm.gz",
-      "AssetFile": "C:\\Users\\Inteli\\Documents\\Github\\ProvaSI\\prova\\obj\\Debug\\net9.0\\compressed\\9lkaywu50t-3nvmbif7f8.gz",
+      "Route": "_framework/prova.wasm.gz",
+      "AssetFile": "C:\\Users\\Inteli\\Documents\\Github\\ProvaSI\\prova\\obj\\Debug\\net9.0\\compressed\\9lkaywu50t-yezjv0sejh.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -22361,7 +22482,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6826"
+          "Value": "6823"
         },
         {
           "Name": "Content-Type",
@@ -22369,15 +22490,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"XM2HhjG0e4saNbfreQ3rg0sHjbDHkH1TNhp/doQdFP0=\""
+          "Value": "\"FI1lRm/ATAP4F3GXILNIwCMtp58UfFH66uN5VBPOzpA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 14:14:41 GMT"
+          "Value": "Fri, 04 Apr 2025 14:19:21 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -22390,21 +22511,13 @@
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "3nvmbif7f8"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/prova.wasm.gz"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-XM2HhjG0e4saNbfreQ3rg0sHjbDHkH1TNhp/doQdFP0="
+          "Value": "sha256-FI1lRm/ATAP4F3GXILNIwCMtp58UfFH66uN5VBPOzpA="
         }
       ]
     },
     {
-      "Route": "_framework/prova.kab2ccv4hl.pdb",
+      "Route": "_framework/prova.xsvvlv7zo1.pdb",
       "AssetFile": "C:\\Users\\Inteli\\Documents\\Github\\ProvaSI\\prova\\bin\\Debug\\net9.0\\wwwroot\\_framework\\prova.pdb",
       "Selectors": [],
       "ResponseHeaders": [
@@ -22414,7 +22527,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "21344"
+          "Value": "21348"
         },
         {
           "Name": "Content-Type",
@@ -22422,11 +22535,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"VC46mCaBm8qV8l/RnD7S8tJScsjcYz1JB1BQYphIBk4=\""
+          "Value": "\"Pwzdkbr060LXAhm66sRZhQ5sMK3Uv9W4RvySLeOhHJM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 14:14:39 GMT"
+          "Value": "Fri, 04 Apr 2025 14:19:20 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22436,7 +22549,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "kab2ccv4hl"
+          "Value": "xsvvlv7zo1"
         },
         {
           "Name": "label",
@@ -22444,18 +22557,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-VC46mCaBm8qV8l/RnD7S8tJScsjcYz1JB1BQYphIBk4="
+          "Value": "sha256-Pwzdkbr060LXAhm66sRZhQ5sMK3Uv9W4RvySLeOhHJM="
         }
       ]
     },
     {
-      "Route": "_framework/prova.kab2ccv4hl.pdb",
-      "AssetFile": "C:\\Users\\Inteli\\Documents\\Github\\ProvaSI\\prova\\obj\\Debug\\net9.0\\compressed\\gprgkkwtjw-kab2ccv4hl.gz",
+      "Route": "_framework/prova.xsvvlv7zo1.pdb",
+      "AssetFile": "C:\\Users\\Inteli\\Documents\\Github\\ProvaSI\\prova\\obj\\Debug\\net9.0\\compressed\\gprgkkwtjw-xsvvlv7zo1.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000065724614"
+          "Quality": "0.000065698706"
         }
       ],
       "ResponseHeaders": [
@@ -22465,15 +22578,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "15214"
+          "Value": "15220"
         },
         {
           "Name": "ETag",
-          "Value": "\"k23SG89GIkQ7kQ5G/1DOqzcrXXW6tyZnFzsnQmzqRQg=\""
+          "Value": "\"a2QL6klVrgrwpp8WFwZC+oGCHmv09/Zcff8Njxw082U=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 14:14:41 GMT"
+          "Value": "Fri, 04 Apr 2025 14:19:21 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22493,13 +22606,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"VC46mCaBm8qV8l/RnD7S8tJScsjcYz1JB1BQYphIBk4=\""
+          "Value": "W/\"Pwzdkbr060LXAhm66sRZhQ5sMK3Uv9W4RvySLeOhHJM=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "kab2ccv4hl"
+          "Value": "xsvvlv7zo1"
         },
         {
           "Name": "label",
@@ -22507,13 +22620,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-VC46mCaBm8qV8l/RnD7S8tJScsjcYz1JB1BQYphIBk4="
+          "Value": "sha256-Pwzdkbr060LXAhm66sRZhQ5sMK3Uv9W4RvySLeOhHJM="
         }
       ]
     },
     {
-      "Route": "_framework/prova.kab2ccv4hl.pdb.gz",
-      "AssetFile": "C:\\Users\\Inteli\\Documents\\Github\\ProvaSI\\prova\\obj\\Debug\\net9.0\\compressed\\gprgkkwtjw-kab2ccv4hl.gz",
+      "Route": "_framework/prova.xsvvlv7zo1.pdb.gz",
+      "AssetFile": "C:\\Users\\Inteli\\Documents\\Github\\ProvaSI\\prova\\obj\\Debug\\net9.0\\compressed\\gprgkkwtjw-xsvvlv7zo1.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -22522,7 +22635,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "15214"
+          "Value": "15220"
         },
         {
           "Name": "Content-Type",
@@ -22530,11 +22643,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"k23SG89GIkQ7kQ5G/1DOqzcrXXW6tyZnFzsnQmzqRQg=\""
+          "Value": "\"a2QL6klVrgrwpp8WFwZC+oGCHmv09/Zcff8Njxw082U=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 14:14:41 GMT"
+          "Value": "Fri, 04 Apr 2025 14:19:21 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22552,7 +22665,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "kab2ccv4hl"
+          "Value": "xsvvlv7zo1"
         },
         {
           "Name": "label",
@@ -22560,149 +22673,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-k23SG89GIkQ7kQ5G/1DOqzcrXXW6tyZnFzsnQmzqRQg="
+          "Value": "sha256-a2QL6klVrgrwpp8WFwZC+oGCHmv09/Zcff8Njxw082U="
         }
       ]
     },
     {
-      "Route": "_framework/prova.pdb",
-      "AssetFile": "C:\\Users\\Inteli\\Documents\\Github\\ProvaSI\\prova\\bin\\Debug\\net9.0\\wwwroot\\_framework\\prova.pdb",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "21344"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"VC46mCaBm8qV8l/RnD7S8tJScsjcYz1JB1BQYphIBk4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 14:14:39 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-VC46mCaBm8qV8l/RnD7S8tJScsjcYz1JB1BQYphIBk4="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/prova.pdb",
-      "AssetFile": "C:\\Users\\Inteli\\Documents\\Github\\ProvaSI\\prova\\obj\\Debug\\net9.0\\compressed\\gprgkkwtjw-kab2ccv4hl.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000065724614"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "15214"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"k23SG89GIkQ7kQ5G/1DOqzcrXXW6tyZnFzsnQmzqRQg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 14:14:41 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"VC46mCaBm8qV8l/RnD7S8tJScsjcYz1JB1BQYphIBk4=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-VC46mCaBm8qV8l/RnD7S8tJScsjcYz1JB1BQYphIBk4="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/prova.pdb.gz",
-      "AssetFile": "C:\\Users\\Inteli\\Documents\\Github\\ProvaSI\\prova\\obj\\Debug\\net9.0\\compressed\\gprgkkwtjw-kab2ccv4hl.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "15214"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"k23SG89GIkQ7kQ5G/1DOqzcrXXW6tyZnFzsnQmzqRQg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 14:14:41 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-k23SG89GIkQ7kQ5G/1DOqzcrXXW6tyZnFzsnQmzqRQg="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/prova.wasm",
+      "Route": "_framework/prova.yezjv0sejh.wasm",
       "AssetFile": "C:\\Users\\Inteli\\Documents\\Github\\ProvaSI\\prova\\bin\\Debug\\net9.0\\wwwroot\\_framework\\prova.wasm",
       "Selectors": [],
       "ResponseHeaders": [
@@ -22720,32 +22696,40 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"UZNRzGLqVuST1/DadO64N6fg4GxDd3ILoH5VDyTfKSU=\""
+          "Value": "\"9gZzepJ1nUeXTEziF7Onyfklqtv7Psosh5CpV2wdeao=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 14:14:39 GMT"
+          "Value": "Fri, 04 Apr 2025 14:19:20 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "yezjv0sejh"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/prova.wasm"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-UZNRzGLqVuST1/DadO64N6fg4GxDd3ILoH5VDyTfKSU="
+          "Value": "sha256-9gZzepJ1nUeXTEziF7Onyfklqtv7Psosh5CpV2wdeao="
         }
       ]
     },
     {
-      "Route": "_framework/prova.wasm",
-      "AssetFile": "C:\\Users\\Inteli\\Documents\\Github\\ProvaSI\\prova\\obj\\Debug\\net9.0\\compressed\\9lkaywu50t-3nvmbif7f8.gz",
+      "Route": "_framework/prova.yezjv0sejh.wasm",
+      "AssetFile": "C:\\Users\\Inteli\\Documents\\Github\\ProvaSI\\prova\\obj\\Debug\\net9.0\\compressed\\9lkaywu50t-yezjv0sejh.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000146477223"
+          "Quality": "0.000146541618"
         }
       ],
       "ResponseHeaders": [
@@ -22755,19 +22739,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6826"
+          "Value": "6823"
         },
         {
           "Name": "ETag",
-          "Value": "\"XM2HhjG0e4saNbfreQ3rg0sHjbDHkH1TNhp/doQdFP0=\""
+          "Value": "\"FI1lRm/ATAP4F3GXILNIwCMtp58UfFH66uN5VBPOzpA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 14:14:41 GMT"
+          "Value": "Fri, 04 Apr 2025 14:19:21 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -22783,19 +22767,27 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"UZNRzGLqVuST1/DadO64N6fg4GxDd3ILoH5VDyTfKSU=\""
+          "Value": "W/\"9gZzepJ1nUeXTEziF7Onyfklqtv7Psosh5CpV2wdeao=\""
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "yezjv0sejh"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/prova.wasm"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-UZNRzGLqVuST1/DadO64N6fg4GxDd3ILoH5VDyTfKSU="
+          "Value": "sha256-9gZzepJ1nUeXTEziF7Onyfklqtv7Psosh5CpV2wdeao="
         }
       ]
     },
     {
-      "Route": "_framework/prova.wasm.gz",
-      "AssetFile": "C:\\Users\\Inteli\\Documents\\Github\\ProvaSI\\prova\\obj\\Debug\\net9.0\\compressed\\9lkaywu50t-3nvmbif7f8.gz",
+      "Route": "_framework/prova.yezjv0sejh.wasm.gz",
+      "AssetFile": "C:\\Users\\Inteli\\Documents\\Github\\ProvaSI\\prova\\obj\\Debug\\net9.0\\compressed\\9lkaywu50t-yezjv0sejh.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -22804,7 +22796,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6826"
+          "Value": "6823"
         },
         {
           "Name": "Content-Type",
@@ -22812,15 +22804,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"XM2HhjG0e4saNbfreQ3rg0sHjbDHkH1TNhp/doQdFP0=\""
+          "Value": "\"FI1lRm/ATAP4F3GXILNIwCMtp58UfFH66uN5VBPOzpA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 14:14:41 GMT"
+          "Value": "Fri, 04 Apr 2025 14:19:21 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -22833,8 +22825,16 @@
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "yezjv0sejh"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/prova.wasm.gz"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-XM2HhjG0e4saNbfreQ3rg0sHjbDHkH1TNhp/doQdFP0="
+          "Value": "sha256-FI1lRm/ATAP4F3GXILNIwCMtp58UfFH66uN5VBPOzpA="
         }
       ]
     },

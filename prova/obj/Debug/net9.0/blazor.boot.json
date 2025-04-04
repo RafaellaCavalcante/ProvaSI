@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "prova",
   "resources": {
-    "hash": "sha256-5hEPo+zbUhD0ys1Xm6Vn8zcC7JRn5JMgu4DskS5UCzg=",
+    "hash": "sha256-qCxIj1trN6lCjO7ME+rnZoN+uVTBGAXNWCQpjhQ8q0M=",
     "fingerprinting": {
       "Microsoft.AspNetCore.Authorization.n41ua9ceve.wasm": "Microsoft.AspNetCore.Authorization.wasm",
       "Microsoft.AspNetCore.Components.h4ild4sjod.wasm": "Microsoft.AspNetCore.Components.wasm",
@@ -201,8 +201,8 @@
       "icudt_CJK.tjcz0u77k5.dat": "icudt_CJK.dat",
       "icudt_EFIGS.tptq2av103.dat": "icudt_EFIGS.dat",
       "icudt_no_CJK.lfu7j35m59.dat": "icudt_no_CJK.dat",
-      "prova.3nvmbif7f8.wasm": "prova.wasm",
-      "prova.kab2ccv4hl.pdb": "prova.pdb"
+      "prova.yezjv0sejh.wasm": "prova.wasm",
+      "prova.xsvvlv7zo1.pdb": "prova.pdb"
     },
     "jsModuleNative": {
       "dotnet.native.8o8n7iomrf.js": "sha256-WIUiy49hHQ3kOAtRdCtUzm3Yg5BnOqCC+Q+kri9Fi1g="
@@ -412,10 +412,10 @@
       "WindowsBase.ovqw333kan.wasm": "sha256-7LCr4nX9JSGuwzMr8Rk8TGvC6ApzQNxCDiMV/0I9JlI=",
       "mscorlib.l6md3pggqy.wasm": "sha256-jZgH0LixLeQKqaq33akQgDGhfE7vbXbHtvCId5HC0Yo=",
       "netstandard.lij9csiyuf.wasm": "sha256-DeeBl9s8G34N3IfYRQ+MoY807amodj8cvpuvUSNaWE4=",
-      "prova.3nvmbif7f8.wasm": "sha256-UZNRzGLqVuST1/DadO64N6fg4GxDd3ILoH5VDyTfKSU="
+      "prova.yezjv0sejh.wasm": "sha256-9gZzepJ1nUeXTEziF7Onyfklqtv7Psosh5CpV2wdeao="
     },
     "pdb": {
-      "prova.kab2ccv4hl.pdb": "sha256-VC46mCaBm8qV8l/RnD7S8tJScsjcYz1JB1BQYphIBk4="
+      "prova.xsvvlv7zo1.pdb": "sha256-Pwzdkbr060LXAhm66sRZhQ5sMK3Uv9W4RvySLeOhHJM="
     }
   },
   "cacheBootResources": true,

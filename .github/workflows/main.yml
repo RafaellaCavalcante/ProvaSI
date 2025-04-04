@@ -19,8 +19,5 @@ jobs:
         with:
           node-version: 18
 
-      - name: Instalar dependências
-        run: dotnet restore
-
       - name: Rodar aplicação
         run: dotnet build
